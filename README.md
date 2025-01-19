@@ -1,4 +1,4 @@
-## Most Interactive Developer
+## Highly Interactive Developer
 
 <!--
 **thkimsw/thkimsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
