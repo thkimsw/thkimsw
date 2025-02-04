@@ -1,16 +1,18 @@
-## Highly Interactive Developer
+🚀 Highly Interactive Developer
+🌍 Platform
+🖥 Operating System: Windows / macOS / Linux
+☁ Cloud Services:
+📱 Mobile: Android, iOS
+💻 Language
+🔹 Frontend: HTML, CSS, JavaScript, Jquery (React)
+🔹 Native: Android
+🔹 Cross-Platform: React Native, Flutter
+🔹 Backend: Node.js, Python (Django, Flask), Java (Spring Boot)
+🔹 Database: MySQL, PostgreSQL, Firebase
+🔹 Others: C, C++, C#, R, Tesnorflow
 
-<!--
-**thkimsw/thkimsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools
+⚙ Version Control: Git, GitHub, GitLab
+🏗 DevOps & CI/CD: Docker
+🖊 IDE & Editors: Visual Studio, VS Code, Cursor, Anaconda, pycharm 
+🏗 Frameworks: React
